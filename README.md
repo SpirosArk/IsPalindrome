@@ -6,14 +6,16 @@ Steps on how the method works:
 
       a) Gets input
   
-      b) Turns to lowercase all the letters of the input
+      b) Turns to lowercase all the letters of the input (line 12)
   
-      c) Eliminates all the spaces between the words
+      c) Eliminates all the spaces between the words (line 13)
   
-      d) Checks if the lowercased input without spaces is equal as the reversed lowercased input without spaces and prints is palindrome if they are equal and not palindrome if they are not
+      d) Checks if the lowercased input without spaces is equal as the reversed lowercased input without spaces (line 15)
+      
+      e) Prints is palindrome if they are equal and not palindrome if they are not (line 16 and 19 respectively)
   
   
-  In order for terminal outputs to be easier to read I used Fore from colorama. If the output is palindrome it gets colored Green while if it is not it is colored Red.
+  In order for terminal outputs to be easier to read I used Fore from [colorama](https://pypi.org/project/colorama/) library. If the output is palindrome it gets colored Green while if it is not it is colored Red.
   
   **This may creates an output problem on some terminals. For example in my case:**
   
@@ -29,5 +31,7 @@ After that it just checks if the next 1000 words from the random generated index
 
 
 
-![A simple run of the programm](https://user-images.githubusercontent.com/25775301/176483418-f39653f8-6bf4-4080-8833-13e20449e624.png)
+![A simple run of the programm]
+
+(https://user-images.githubusercontent.com/25775301/176483418-f39653f8-6bf4-4080-8833-13e20449e624.png)
 
