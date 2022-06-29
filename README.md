@@ -18,7 +18,7 @@ Steps of the method:
   
         i) works perfect on online IDE and Microsoft Visual Studio Code 
                                            
-        ii) Returns Ascii color characters before the input if I execute the script through windows cmd*/
+        ii) Returns Ascii color characters before the input if I execute the script through windows cmd
                                                           
 
 In order to check if the script runs correct I accessed MIT's free wordlist on URl: https://www.mit.edu/~ecprice/wordlist.10000 with 10000 free english words.
