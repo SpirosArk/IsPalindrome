@@ -2,15 +2,16 @@
 Method in Python in order to check whether an input is palindrome or not.
 
 
-Steps of the method:
+Steps on how the method works:
 
-  a) Gets input
+      a) Gets input
   
-  b) Turns to lowercase all the letters of the input
+      b) Turns to lowercase all the letters of the input
   
-  c) Eliminates all the spaces between the words
+      c) Eliminates all the spaces between the words
   
-  d) Checks if the lowercased input without spaces is equal as the reversed lowercased input without spaces and prints is palindrome if they are equal and not palindrome if they are not
+      d) Checks if the lowercased input without spaces is equal as the reversed lowercased input without spaces and prints is palindrome if they are equal and not palindrome if they are not
+  
   
   In order for terminal outputs to be easier to read I used Fore from colorama. If the output is palindrome it gets colored Green while if it is not it is colored Red.
   
