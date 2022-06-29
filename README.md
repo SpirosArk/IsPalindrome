@@ -14,7 +14,7 @@ Steps of the method:
   
   In order for terminal outputs to be easier to read I used Fore from colorama. If the output is palindrome it gets colored Green while if it is not it is colored Red.
   
-  **This may creates an output problem on some terminals. For example in my case:
+  **This may creates an output problem on some terminals. For example in my case:**
   
         i) works perfect on online IDE and Microsoft Visual Studio Code 
                                            
