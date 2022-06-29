@@ -33,5 +33,5 @@ After that it just checks if the next 1000 words from the random generated index
 
 A simple run of the programm below:
 
-                 [RunTest](https://user-images.githubusercontent.com/25775301/176483418-f39653f8-6bf4-4080-8833-13e20449e624.png)
+[RunTest](https://user-images.githubusercontent.com/25775301/176483418-f39653f8-6bf4-4080-8833-13e20449e624.png)
 
