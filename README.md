@@ -2,7 +2,7 @@
 Method in Python in order to check whether an input is palindrome or not.
 
 
-Steps on how the method works:
+Steps on how palindrome method works: (line 9)
 
       a) Gets input
   
